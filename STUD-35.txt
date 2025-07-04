@@ -1,0 +1,2 @@
+ Загальна діаграма класів (Draw.io)
+ObservableCollection-колекція замовлень,ConfigureUI() інтерфейс
